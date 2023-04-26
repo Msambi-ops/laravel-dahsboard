@@ -1,5 +1,5 @@
 # Laravel 9.X Bootstrap 5 Admin Dashboard
-- Adminpanel based on Soft UI theme from [Creative Tim](https://www.creative-tim.com/product/soft-ui-dashboard)
+- Adminpanel based on Soft UI theme
 
 ### What's inside:
 - Login/Register functionality with default Laravel
